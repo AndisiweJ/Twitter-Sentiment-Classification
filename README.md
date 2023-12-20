@@ -1,5 +1,4 @@
-![word](https://github.com/AndisiweJ/Twitter-Sentiment-Classification/assets/107894108/8e0a0b32-ac4e-498f-80b3-7cbb7b588f3a)# Twitter-Sentiment-Classification
-
+# EA - Twitter Sentiment Classification
 ## Project Overview
 Objective: Predict an individual’s belief in climate change based on their tweets.
 
